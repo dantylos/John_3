@@ -1,0 +1,22 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.container{
+   max-width: 1440px;
+}
+header{
+   max-height: 104px;
+   background: rgba(0, 0, 0, 0.4);
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+header a{
+   max-width: 30px;
+}
+.logo{
+   max-width: 187px;
+   max-height: 96px;
+}
